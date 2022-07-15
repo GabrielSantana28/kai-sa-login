@@ -1,0 +1,38 @@
+.imgk {
+  height: 100%;
+  position: absolute;
+  object-fit: cover;
+}
+
+.imgpkss {
+  display: none;
+}
+
+.flex-img {
+  display: flex;
+  gap: 45px;
+}
+
+@media (max-width: 1460px) {
+  .imgk {
+    width: 590px;
+  }
+}
+
+@media (max-width: 1300px) {
+  .imgk {
+    width: 490px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .imgk {
+    width: 390px;
+  }
+}
+
+@media (max-width: 1100px) {
+  .imgk {
+    display: none;
+  }
+}

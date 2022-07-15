@@ -1,0 +1,122 @@
+.login-name {
+  padding-left: 60px;
+}
+
+.afasta {
+  padding: 10px 60px;
+}
+
+.info-login {
+  width: 600px;
+  height: 60px;
+  margin-top: -15px;
+  box-shadow: 0px 2.90353px 3.62941px rgba(0, 0, 0, 0.2);
+  border-radius: 50px;
+  font-size: 23px;
+  border: none;
+  padding: 0px 20px;
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+}
+
+.btn {
+  margin-top: 20px;
+  width: 300px;
+  height: 70px;
+  left: 779px;
+  top: 570px;
+  background: #7a4f98;
+  border-radius: 50px;
+  border: none;
+  color: #fff;
+}
+
+.btn {
+  cursor: pointer;
+}
+
+.naotemconta {
+  margin-top: 20px;
+}
+
+.footer {
+  padding-top: 281px;
+}
+
+@media (max-width: 1800px) {
+  .media {
+    padding-left: 60px;
+  }
+}
+
+@media (max-width: 1650px) {
+  .media {
+    padding-left: 120px;
+  }
+}
+
+@media (max-width: 1460px) {
+  .media {
+    padding-left: 90px;
+  }
+}
+
+@media (max-width: 1300px) {
+  .media {
+    padding-left: 25px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .media {
+    margin-left: -70px;
+  }
+}
+
+@media (max-width: 1100px) {
+  .media {
+    margin-top: 60px;
+    margin-left: 20px;
+  }
+}
+
+@media (max-width: 800px) {
+  .media {
+    margin-left: 0px;
+  }
+}
+
+@media (max-width: 630px) {
+  .media {
+    margin-left: -35px;
+  }
+  .info-login {
+    width: 400px;
+  }
+}
+
+@media (max-width: 470px) {
+  .media {
+    padding-left: 70px;
+  }
+}
+
+@media (max-width: 410px) {
+  .media {
+    padding-left: 140px;
+  }
+}
+
+@media (max-width: 400px) {
+  .media {
+    padding-left: 0px;
+  }
+  .info-login {
+    width: 250px;
+  }
+}
+
+@media (max-width: 320px) {
+  .media {
+    padding-left: 70px;
+  }
+}
