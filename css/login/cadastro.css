@@ -1,0 +1,115 @@
+.cadastro {
+  padding: 0px 60px;
+}
+
+.grid-cadastro {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+
+.grid-1 {
+  grid-column: 1;
+}
+
+.grid-2 {
+  grid-column: 2;
+}
+
+.row-1 {
+ grid-row: 1;
+}
+
+.row-2 {
+ grid-row: 2;
+}
+
+.grid-cadastro-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  margin-top: -40px;
+}
+
+.numero {
+  margin-top: -40px;
+}
+
+.btn-cadastro {
+  margin-top: 80px;
+  width: 300px;
+  height: 70px;
+  left: 779px;
+  top: 570px;
+  background: #7a4f98;
+  border-radius: 50px;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}
+
+
+.footer-cadastro {
+  padding-top: 100px;
+}
+
+@media (max-width: 1440px) {
+  .info-login {
+    width: 400px;
+  }
+}
+
+@media (max-width: 1010px) {
+  .info-login {
+    width: 250px;
+  }
+}
+
+@media (max-width: 720px) {
+  .grid-cadastro {
+    display: block;
+  }
+  .grid-cadastro-2 {
+    display: block;
+    margin-top: 0px;
+  }
+  .numero {
+    margin-top: 0px;
+  }
+  .info-login {
+    width: 500px;
+  }
+}
+
+@media (max-width: 650px) {
+  .info-login {
+    width: 300px;
+  }
+}
+
+@media (max-width: 540px) {
+  .diminuir {
+    font-size: 45px;
+  }
+}
+
+@media (max-width: 425px) {
+  .cadastro {
+    padding: 0px 20px;
+  }
+}
+
+@media (max-width: 375px) {
+  .diminuir {
+    font-size: 40px;
+  }
+  .info-login {
+    width: 250px;
+  }
+}
+
+@media (max-width: 320px) {
+  .cadastro {
+    padding: 0px 15px;
+  }
+}

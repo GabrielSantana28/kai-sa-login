@@ -1,11 +1,6 @@
 .imgk {
-  height: 100%;
   position: absolute;
   object-fit: cover;
-}
-
-.imgpkss {
-  display: none;
 }
 
 .flex-img {

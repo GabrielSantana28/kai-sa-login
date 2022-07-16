@@ -28,9 +28,6 @@
   border-radius: 50px;
   border: none;
   color: #fff;
-}
-
-.btn {
   cursor: pointer;
 }
 
@@ -117,6 +114,6 @@
 
 @media (max-width: 320px) {
   .media {
-    padding-left: 70px;
+    padding-left: 105px;
   }
 }
